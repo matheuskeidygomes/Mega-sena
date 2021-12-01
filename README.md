@@ -2,6 +2,12 @@
 
 Projeto de estudo, realizado para aperfeiçoar lógica em React.js.
 
+# Tecnologias Utilizadas
+
+- Javascript
+- React.js (com Hooks)
+- HTML/CSS
+
 # Instalação
 
 1º Após clonar o repositório, abrir CMD e navegar para o diretório do projeto
