@@ -18,3 +18,7 @@ Projeto de estudo, realizado para aperfeiçoar lógica em React.js.
 Neste projeto, há uma funcionalidade onde é possível gerar uma sequência de números aleatórios (não repetidos), como em uma espécie de Mega-Sena.  
 Para gerar os números, basta escolher a quantidade de números desejada no input number, e clicar no botão "Gerar Aposta", que será gerado uma
 listagem dos números aleatórios.
+
+# Preview
+
+![image](https://user-images.githubusercontent.com/74063350/147153219-ff8bc04a-8fbc-48ad-a5d7-b68ad38ad957.png)
