@@ -25,6 +25,13 @@ Projeto de estudo, realizado para aperfeiçoar lógica em React.js.
 - [x] Inserir quantidade de números sorteados desejada
 - [x] Sortear e listar números aleatórios na tela
 
+# Repositório Online
+
+Acesse clicando no botão abaixo:   
+  
+<a href="https://megasena-mk.herokuapp.com/"> 
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
+</a>
 
 # Screenshots
 
